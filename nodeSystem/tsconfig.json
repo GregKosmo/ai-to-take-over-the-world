@@ -1,0 +1,9 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "baseUrl": "src",
+        "sourceMap": true,
+        "pretty": true,
+        "outFile": "dist/bundle.js"
+    }
+}
